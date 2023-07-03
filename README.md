@@ -13,6 +13,6 @@ Projects I'm proud of:
 [Minishell](https://github.com/moerastrid/my_first_shell "Minishell")
 [![ageels's 42 minishell Score](https://badge42.vercel.app/api/v2/clh6h173m003508mi5v0y08x1/project/2805183)](https://github.com/JaeSeoKim/badge42)
 
-LIBFT (check out my ft_split!)
+LIBFT (check out my [ft_split!](https://github.com/moerastrid/ft_split/blob/master/ft_split.c "split"))
 [![ageels's 42 Libft Score](https://badge42.vercel.app/api/v2/clh6h173m003508mi5v0y08x1/project/2365223)](https://github.com/JaeSeoKim/badge42)
 
