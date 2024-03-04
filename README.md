@@ -5,9 +5,11 @@
 
 Projects I'm proud of:
 
-[Weeviltime (Cub3D)](https://github.com/moerastrid/weeviltime "Weeviltime")
+IRC (an IRC server) [IRC](https://github.com/moerastrid/ft_irc "IRC")
 
-[Minishell](https://github.com/moerastrid/my_first_shell "Minishell")
+Cub3D (raycasting) [Weeviltime (Cub3D)](https://github.com/moerastrid/weeviltime "Weeviltime")
+
+Minishell (bash recreated) [Minishell](https://github.com/moerastrid/my_first_shell "Minishell")
 
 LIBFT (check out my [ft_split!](https://github.com/moerastrid/ft_split/blob/master/ft_split.c "split"))
 
