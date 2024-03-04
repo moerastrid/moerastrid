@@ -1,6 +1,7 @@
 ### Astrid Geels
-![moerastrids GitHub stats](https://github-readme-stats.vercel.app/api?username=moerastrid&show_icons=true&theme=radical)
 ![Astrids Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moerastrid&layout=compact&theme=radical)
+
+![moerastrids GitHub stats](https://github-readme-stats.vercel.app/api?username=moerastrid&show_icons=true&theme=radical)
 
 
 Projects I'm proud of:
