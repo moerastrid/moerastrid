@@ -1,9 +1,10 @@
-### Astrid Geels
+# Astrid Geels
+
 ![Astrids Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moerastrid&layout=compact&theme=radical)
 
 
 
-Projects I'm proud of:
+## Projects I'm proud of:
 
 IRC (an IRC server) [IRC](https://github.com/moerastrid/ft_irc "IRC")
 
